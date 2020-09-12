@@ -7,7 +7,7 @@ package practica1;
 
 /**
  *
- * @author Dell
+ * @author Rebecca Lozano Loredo
  */
 
 import java.util.Scanner; 
